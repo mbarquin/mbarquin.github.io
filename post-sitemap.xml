@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+        <loc>https://www.mercenariophp.com</loc>
+        <changefreq>daily</changefreq>
+        <priority>1</priority>
+    </url>
+
+    <url>
+        <loc>https://www.mercenariophp.com/php-dotenv-variables-entorno/</loc>
+        <lastmod>2019-06-22T23:26:29.017Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.mercenariophp.com/retornando-objetos-valor/</loc>
+        <lastmod>2019-06-22T23:26:29.017Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.mercenariophp.com/slim-reactphp-servidor-nativo/</loc>
+        <lastmod>2019-06-22T23:26:29.017Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.mercenariophp.com/tutorial-symfony-bundles-knpmenubundle/</loc>
+        <lastmod>2019-06-22T23:26:29.017Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.mercenariophp.com/tutorial-symfony/</loc>
+        <lastmod>2019-06-22T23:26:29.017Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.mercenariophp.com/tutorial-php-composer/</loc>
+        <lastmod>2019-06-22T23:03:23.680Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.mercenariophp.com/tutorial-symfony-doctrine-orm/</loc>
+        <lastmod>2019-06-22T23:03:23.680Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.mercenariophp.com/tutorial-symfony-twig/</loc>
+        <lastmod>2019-06-22T23:03:23.680Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.mercenariophp.com/vacaciones/</loc>
+        <lastmod>2019-06-22T23:03:23.680Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.mercenariophp.com/versionado-semantico/</loc>
+        <lastmod>2019-06-22T23:03:23.680Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.mercenariophp.com/Jigsaw-generador-php-paginas-estaticas/</loc>
+        <lastmod>2019-06-22T23:03:23.676Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.mercenariophp.com/descarga-ficheros-comprimidos-Archivestream-php/</loc>
+        <lastmod>2019-06-22T23:03:23.676Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.mercenariophp.com/PHPUnit-skeleton-generator-netbeans/</loc>
+        <lastmod>2019-06-22T23:03:23.676Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.mercenariophp.com/editor-hackeable-atom/</loc>
+        <lastmod>2019-06-22T23:03:23.676Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.mercenariophp.com/estructura-directorios-proyecto-php/</loc>
+        <lastmod>2019-06-22T23:03:23.676Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.mercenariophp.com/refactorizando-reactphp-slim/</loc>
+        <lastmod>2019-06-22T23:03:23.676Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.mercenariophp.com/remenberinnnn-sql-joins/</loc>
+        <lastmod>2019-06-22T23:03:23.676Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.mercenariophp.com/slim-controller-usando-di-patron-factory/</loc>
+        <lastmod>2019-06-22T23:03:23.676Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.mercenariophp.com/slim-dynamic-routing-factory-setup/</loc>
+        <lastmod>2019-06-22T23:03:23.676Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+</urlset>
+<!-- XML Sitemap generated by Hexo SEO Friendly Sitemap Generator -->
